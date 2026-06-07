@@ -1,2 +1,2 @@
-SELECT GrantID,CurrentGrantStatus
+SELECT GrantID,CurrentGrantStatus,GrantApproveddate
 FROM Fact_GrantDetails
