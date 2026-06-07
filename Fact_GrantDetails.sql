@@ -1,0 +1,2 @@
+SELECT GrantID,CurrentGrantStatus
+FROM Fact_GrantDetails
