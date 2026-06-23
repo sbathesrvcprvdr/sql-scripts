@@ -1,2 +1,4 @@
 SELECT GrantID,CurrentGrantStatus,GrantApproveddate
 FROM Fact_GrantDetails
+order by grantid
+where grantfiscalyear=2026
